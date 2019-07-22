@@ -1,0 +1,11 @@
+graphFile:../data/producedGraphLondon2017/London2017/hashtagsGraph.json
+hashtagCooccurrencesFile:../data/producedGraphLondon2017/London2017/hashtagCooccurrences.txt
+outputFile:results/retrievedPatterns.json
+stDevWeightFactor:1
+minCov:0.8
+minQuality:5.0
+minSize:1
+minTime:2
+beginMineTime:0
+endMineTime:-1
+userId:1
