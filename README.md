@@ -1,5 +1,5 @@
 # User driven geolocated event detection in social media
-This repository provides the materials for the paper: " User-driven geo-spatial event detection in social media".
+This repository provides the materials for the paper: "User-driven geolocated event detection in social media".
 
 It is organized as follows:
 
